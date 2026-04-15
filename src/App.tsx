@@ -133,7 +133,7 @@ function App() {
       </div> 
       <div>
         <span>Full source code is available </span>
-        <a href="https://github.com/jcdotnet/react-basics/tree/main/minesweeper">here.</a>
+        <a href="https://github.com/jcdotnet/react-minesweeper">here.</a>
       </div>
     </div>
   )
